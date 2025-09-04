@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heet Savaliya</h1>
-<h3 align="center">A passionate DevOps Engineer👨🏼‍💻 from USA.</h3>
+<h3 align="center">A passionate Software Engineer👨🏼‍💻 from USA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savaliyaheet&label=Profile%20views&color=0e75b6&style=flat" alt="savaliyaheet" /> </p>
 
